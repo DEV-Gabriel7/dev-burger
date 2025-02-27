@@ -19,10 +19,10 @@ O projeto utiliza as seguintes tecnologias:
 
 ## 📌 Funcionalidades
 
-✔ Menu com imagens e descrições dos hambúrgueres e bebidas.
-✔ Adição de produtos ao carrinho com cálculo do total.
-✔ Modal de carrinho para exibição dos itens selecionados.
-✔ Layout totalmente responsivo, adaptado para diversos dispositivos.
+- ✔ Menu com imagens e descrições dos hambúrgueres e bebidas.
+- ✔ Adição de produtos ao carrinho com cálculo do total.
+- ✔ Modal de carrinho para exibição dos itens selecionados.
+- ✔ Layout totalmente responsivo, adaptado para diversos dispositivos.
 
 ---
 
